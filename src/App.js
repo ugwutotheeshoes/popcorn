@@ -87,7 +87,7 @@ function NavBar({ movies }) {
     <nav className="nav-bar">
       <div className="logo">
         <span role="img">🍿</span>
-        <h1>usePopcorn</h1>
+        <h1>Popcorn</h1>
       </div>
       <input
         className="search"
